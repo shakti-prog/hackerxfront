@@ -135,7 +135,6 @@ function LandingPage() {
         </div>
         
       </div>
-      <DemoFooter />
     </>
   );
 }
