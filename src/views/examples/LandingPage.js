@@ -133,7 +133,6 @@ function LandingPage() {
           <Container>
           </Container>
         </div>
-        
       </div>
     </>
   );
